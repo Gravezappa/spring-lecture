@@ -1,0 +1,13 @@
+#java specific
+*.class
+target/
+back-up/
+test-output/
+test-output/Default/
+#.gitignore
+.classpath
+.project
+.settings/
+activemq-data/
+.DS_Store
+.springbeans
